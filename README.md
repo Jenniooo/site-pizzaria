@@ -7,5 +7,5 @@ Este é o repositório para o site da Pizzaria, um projeto para criar um site de
 3.Finalização do pedido com informações de entrega.<br>
 4.Acompanhamento do status do pedido em tempo real.<br>
 <div>
-  <img src="https://giphy.com/embed/3osxYoufeOGOA7xiX6">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaTJwNjcxenYzZzBsMGM4dzJqazAxMnl3N2F0ZmZlZjZqdWxrYmdudiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3osxYoufeOGOA7xiX6/giphy.gif" min-width="330px" max-width="370px" width="350px" align="right" alt="Computador iuriCode" >
 </div>
