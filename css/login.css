@@ -1,0 +1,106 @@
+
+
+@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
+body {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Arial, sans-serif;
+   }
+   .login-container {
+    display: flex;
+    height: 100vh;
+    align-items: center;
+    justify-content: center;
+   }
+   .left-half, .right-half {
+    width: 50%;
+    height: 100%;
+   }
+   .left-half {
+    background-color: #ffffff;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+   }
+   .right-half {
+    background-image:url("https://img.freepik.com/fotos-gratis/pizza-suprema-tradicional-isolada-em-fundo-branco_123827-20129.jpg?w=740&t=st=1700707746~exp=1700708346~hmac=bb688a07508fdaa9f86c9e5dcdf056da6983d73315af3888e014abb41e439318") ; 
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    object-fit: cover;
+    background-size: cover;
+    background-position: center;
+   }
+
+   form {
+    height: 350px;
+    background-color: #fff;
+    padding: 30px;
+    border-radius: 5px;
+    width: 100%;
+    max-width: 400px;
+    box-shadow: 10px 10px 40px rgba(0, 0, 0, 0.4);
+   }
+   span {
+    display: block;
+    font-size: 24px;
+    margin-bottom: 20px;
+    font-family: 'Poppins', sans-serif;
+    font-weight: bold;
+    text-transform: uppercase;
+   }
+   .input-box {
+    position: relative;
+    margin-bottom: 25px;
+   }
+   .input-box input {
+    width: 80%;
+    padding: 10px 35px;
+    border: 1px solid #ddd;
+    border-radius: 10px;
+    outline: none;
+    font-size: 16px;
+    border-color: rgb(201, 119, 12);
+    }
+   .input-box i {
+    position: absolute;
+    top: 12px;
+    left: 15px;
+    color: #777;
+   }
+  
+   a{
+    
+    text-decoration: none;
+    color: #615454;
+   }
+   a.enter{
+    color: #ffff;
+    
+
+   }
+   .link-container{
+    display: flex;
+    justify-content: space-between;
+    margin:5px;
+   }
+    .input-group{
+    width: 100%;
+    height: 47px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 8px;;
+    text-decoration: none;
+    background-color: #913009;
+    outline: none;
+    border: none;
+    border-radius: 60px;
+    color: #ffff;
+    cursor: pointer;
+    font-family: 'Poppins', sans-serif;
+}
+
+   
+   
